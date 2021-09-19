@@ -10,4 +10,5 @@ router
     console.log('GET board')
   })
   .post(BoardValidation.createNew, BoardController.createNew)
+
 export const boardRoutes = router
