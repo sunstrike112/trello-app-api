@@ -8,6 +8,7 @@ export const HttpStatusCode = {
 
 export const WHITELIST_DOMAINS = [
   `http://localhost:3000`,
-  `http://localhost:3001`
+  `http://localhost:3001`,
+  `https://trelloapp-179e7.web.app`
 ]
 
